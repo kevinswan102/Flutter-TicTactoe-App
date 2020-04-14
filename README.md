@@ -1,6 +1,7 @@
-# ttt_new
+# Flutter TicTacToe
 
 A TicTacToe application. Missing build folder.
+
 ![](images/TTT.PNG)
 ![](images/TTT2.PNG)
 ![](images/TTT3.PNG)
