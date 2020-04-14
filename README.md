@@ -1,6 +1,6 @@
 # ttt_new
 
-A new Flutter application.
+A new Flutter application. Missing build folder.
 
 ## Getting Started
 
