@@ -1,6 +1,10 @@
 # ttt_new
 
-A new Flutter application. Missing build folder.
+A TicTacToe pplication. Missing build folder.
+![](TTT.PNG)
+![](TTT2.PNG)
+![](TTT3.PNG)
+
 
 ## Getting Started
 
